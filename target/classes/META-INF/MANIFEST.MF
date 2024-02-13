@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 18
+Implementation-Title: orderdelivery
+Implementation-Version: 1.0.0.0
+Main-Class: com.orderdelivery.OrderdeliveryApplication
+Build-Reference: 
+Created-By: Maven Integration for Eclipse
+Jenkins-Build-Slave: 
+Jenkins-Job-Reference: 
+
