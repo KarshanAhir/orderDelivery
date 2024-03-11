@@ -13,6 +13,7 @@ public class OrderdeliveryApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OrderdeliveryApplication.class, args);
+		
 	}
 
 }
